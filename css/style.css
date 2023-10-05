@@ -1,0 +1,41 @@
+/* Nini Tran */
+/* 8855518 */
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: hsla(278, 36%, 86%, 0.1);
+  font: normal normal normal normal 12px/1.5 Verdana, Arial, Helvetica,
+    sans-serif;
+}
+
+h2 {
+  color: rgb(0, 102, 255);
+  font-size: 2rem;
+}
+header {
+  background-color: hsl(200, 87%, 65%);
+}
+main {
+  float: left;
+  width: 65vw;
+  height: 60vh;
+  border: 5px solid rgb(34, 107, 190);
+}
+aside {
+  float: right;
+  width: 25vw;
+  height: 60vh;
+  border: 5px solid blue;
+}
+.structural {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+footer {
+  clear: both;
+}
+footer {
+  font-size: 0.75cm;
+}
